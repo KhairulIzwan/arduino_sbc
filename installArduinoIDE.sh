@@ -13,3 +13,5 @@ cd $INSTALL_DIR/arduino-${ARDUINO_VERSION}
 sudo ./install.sh
 ./arduino-linux-setup.sh "$USER"
 echo "You can delete the tar file if desired: arduino-"${ARDUINO_VERSION}"-linuxarm.tar.xz"
+
+echo "Enjoy coding!"s
