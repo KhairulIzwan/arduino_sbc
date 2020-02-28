@@ -1,12 +1,9 @@
 #!/bin/bash
-# Copyright (c) 2016-19 Jetsonhacks 
-# MIT License
-# Download and install the Arduino IDE
-# This is a *very* simple script, change the environment 
-# variables to your liking
+# The code originall courtesy of jetsonhacks.com
+# Re-arrange to be use with Raspberry Pi 4 (Raspbian Buster or later) 
 
 INSTALL_DIR=${HOME}
-# Direct Jetson support starts at 1.8.10
+# You may check current (latest IDE)
 ARDUINO_VERSION=1.8.11
 
 # Only download if newer version exists
