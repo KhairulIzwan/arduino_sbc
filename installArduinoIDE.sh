@@ -4,7 +4,7 @@
 
 INSTALL_DIR=${HOME}
 # You may check current (latest IDE)
-ARDUINO_VERSION=1.8.11
+ARDUINO_VERSION=1.8.12
 
 # Only download if newer version exists
 wget -N https://downloads.arduino.cc/arduino-$ARDUINO_VERSION-linuxarm.tar.xz
