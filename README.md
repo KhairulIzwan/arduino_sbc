@@ -12,3 +12,6 @@
 >> 1. roscd arduino_sbc
 >> 2. ./installArduinoIDE.sh
 >>> **You can change the latest version of Arduino IDE by edit the scripts file. Goodluck!**
+> 
+> Add dialout
+>> sudo chmod a+rw /dev/ttyACM* or /dev/ttyUSB*
